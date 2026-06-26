@@ -133,10 +133,6 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://leetcode.com/Gajavellishaily_12">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-</a>
-
 </p>
 
 ---
