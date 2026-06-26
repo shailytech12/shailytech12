@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaily Gajavelli</h1>
 
 <h3 align="center">
-Final-Year Computer Science & Engineering (AI & ML) Student | Software Engineering Enthusiast | Backend Developer
+Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software Engineer | Backend Developer
 </h3>
 
 <p align="center">
