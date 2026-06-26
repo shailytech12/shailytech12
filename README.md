@@ -137,10 +137,11 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 
 ---
 
-## 📫 Reach Me
+## 📫 Contact
 
 📧 **gajavellishaily@gmail.com**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub profile! ⭐
+Happy Coding! 🚀</h3>
