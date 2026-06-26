@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaily Gajavelli</h1>
 
 <h3 align="center">
-Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software Engineer | Backend Developer
+Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software Engineer
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 
 💻 Passionate about **Software Engineering, Backend Development, and Full-Stack Web Development**
 
-🌍 **Contributor at EliteCoders Summer of Code (ECSOC) 2026**
+🌍 **Open Source Contributor at EliteCoders Summer of Code (ECSOC) 2026**
 
 🚀 Interested in designing scalable applications, building RESTful APIs, and solving real-world problems through clean and efficient code.
 
@@ -72,7 +72,7 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 
 # 🚀 Featured Projects
 
-## 🔹 SecurePay – AI-Powered UPI Fraud Detection System
+## 🔹 [SecurePay – AI-Powered UPI Fraud Detection System](https://github.com/shailytech12/securepay-ml)
 
 - Built the frontend and backend using **Flask, MySQL, HTML, CSS, JavaScript, and Jinja2**.
 - Implemented OTP authentication, merchant/admin dashboards, and QR payment workflows.
@@ -80,7 +80,7 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 
 ---
 
-## 🔹 StockFlow – Real-Time Stock Analytics
+## 🔹 [StockFlow – Real-Time Stock Analytics](https://github.com/shailytech12/StockFlow)
 
 - Built a real-time stock analytics pipeline using **Apache Kafka**.
 - Developed Kafka producers and consumers for processing live market data.
@@ -88,7 +88,7 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 
 ---
 
-## 🔹 ClipURL – URL Shortener
+## 🔹 [ClipURL – URL Shortener](https://github.com/shailytech12/ClipURL)
 
 - Developed RESTful APIs using **Node.js, Express.js, and MongoDB**.
 - Implemented **O(1)** URL redirection using **HashMap**.
