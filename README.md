@@ -26,14 +26,26 @@ Interested in **Generative AI, Agentic AI, Machine Learning, Backend Engineering
 
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
 </p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+* Scikit-learn
+* CNN
+* CLIP
+* Hugging Face
+* LangChain
+* LangGraph
 
 ### 🌐 Web Technologies & Frameworks
 
@@ -53,19 +65,26 @@ Interested in **Generative AI, Agentic AI, Machine Learning, Backend Engineering
 <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
-- Apache Kafka
+* Apache Kafka
 
-### 📚 Currently Learning
+### 🔧 Authentication & APIs
+
+* RESTful APIs
+* Google OAuth
+* Google Maps API
+* Multer
+
+### 📦 DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,vscode"/>
 </p>
 
-### 🛠️ Tools
+### 🌱 Currently Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode"/>
-</p>
+* Kubernetes
+* Cloud Computing
+* Advanced Docker
 
 ---
 
