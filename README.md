@@ -15,9 +15,13 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 ## 👩‍💻 About Me
 
 Final-Year **Computer Science & Engineering (AI & ML)** student at **Jawaharlal Nehru Technological University Hyderabad (JNTUH)** with hands-on experience in **AI/ML, Backend Development, and Full-Stack Web Development**.
+
 🤖 Experienced in building **multi-agent AI systems, anomaly detection pipelines, RESTful APIs, and scalable web applications** using Python, PyTorch, TensorFlow, React, Node.js, Express.js, and MongoDB.
+
 🚀 Interested in **Generative AI, Agentic AI, Machine Learning, Backend Engineering, and scalable software systems**, with a focus on solving real-world problems through clean and efficient solutions.
+
 🌍 **Open Source Contributor at EliteCoders Summer of Code (ECSOC) 2026**, with experience collaborating on real-world software projects.
+
 ☁️ **AWS Cloud Practitioner Essentials Certified** and currently strengthening skills in **Docker, Kubernetes, and Cloud Computing**.
 
 
