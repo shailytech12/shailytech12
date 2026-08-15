@@ -70,29 +70,29 @@ Final-Year Computer Science & Engineering (AI & ML) Student | Aspiring Software 
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔹 [SecurePay – AI-Powered UPI Fraud Detection System](https://github.com/shailytech12/securepay-ml)
+### Multi-Agent Consensus-Based Image Generation and Validation System | [GitHub](https://github.com/shailytech12/Multi-Agent-System) | Apr 2026
 
-- Built the frontend and backend using **Flask, MySQL, HTML, CSS, JavaScript, and Jinja2**.
-- Implemented OTP authentication, merchant/admin dashboards, and QR payment workflows.
-- Collaborated on integrating a machine learning model into the web application.
+**Python | PyTorch | CLIP | Hugging Face | LangChain | LangGraph**
 
----
+* Built a three-agent image-generation framework with CLIP-based semantic matching and weighted consensus scoring using **60% description alignment and 40% agent consensus** for automated output validation.
+* Designed a stateful LangGraph feedback loop that selectively regenerated failed outputs, enabling iterative quality refinement without rerunning the complete workflow.
 
-## 🔹 [StockFlow – Real-Time Stock Analytics](https://github.com/shailytech12/StockFlow)
+### SecurePay – AI-Powered Anomaly Detection | [GitHub](https://github.com/shailytech12/securepay-ml) | Mar 2026
 
-- Built a real-time stock analytics pipeline using **Apache Kafka**.
-- Developed Kafka producers and consumers for processing live market data.
-- Implemented an event-driven architecture supporting scalable streaming applications.
+**Python | Flask | TensorFlow/Keras | Scikit-learn | CNN | MySQL**
 
----
+* Developed and evaluated a **CNN-based fraud detection pipeline** for 25K+ UPI transactions with 34 features, performing preprocessing and behavioral and transactional feature engineering while benchmarking against baseline ML models.
+* Achieved **91.94% precision and 85.1% recall** for fraud detection, with real-time risk scoring and automated blocking of high-risk transactions.
 
-## 🔹 [ClipURL – URL Shortener](https://github.com/shailytech12/ClipURL)
+### Certificate Management & Tracking System | [GitHub](https://github.com/shailytech12/cert-submit) | July 2025
 
-- Developed RESTful APIs using **Node.js, Express.js, and MongoDB**.
-- Implemented **O(1)** URL redirection using **HashMap**.
-- Built an **LRU Cache** using **Doubly Linked List** and **HashMap**.
+**React | Node.js | Express.js | MongoDB | Google OAuth | Google Maps API | Multer**
+
+* Architected a 2-role certificate tracking platform with custom dashboards, Google OAuth, and a scalable MongoDB backend.
+* Implemented **8 REST API endpoints** using Node.js and Express.js, integrating Google Maps API for location services and Multer for certificate uploads, with real-time status tracking across **4 states** through a dynamic React interface with notifications.
+
 
 ---
 
